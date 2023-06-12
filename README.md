@@ -1,11 +1,8 @@
-<p align="center">
-  <img max-height="172" width="80%" src="media/title.png"/>
-</p>
 
 <p align="center">
 a feature rich Twitter experience built with <a href="https://flutter.dev/">Flutter</a>
 </p>
-  
+
 <br>
 
 <p align="center">
@@ -18,21 +15,13 @@ a feature rich Twitter experience built with <a href="https://flutter.dev/">Flut
   <a href="https://github.com/Solido/awesome-flutter">
    <img src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true"/>
   </a>
-  
+
   <a href="https://github.com/robertodoering/harpy/actions/workflows/flutter_push.yml">
    <img src="https://github.com/robertodoering/harpy/actions/workflows/flutter_push.yml/badge.svg"/>
   </a>
 </p>
 
 <br>
-
-<p align="center">
-harpy is no longer in active development after Twitter's decision to disallow third party Twitter clients.
-</p>
-
-<p align="center">
-harpy was available in the Play Store as a free and paid app and was used by over 75.000 active users.
-</p>
 
 <br>
 
@@ -49,7 +38,7 @@ harpy was available in the Play Store as a free and paid app and was used by ove
 
 <details>
   <summary>More images</summary>
-  
+
   | **Home** | **Media timeline** | **Theme selection** |
   | :---: | :---: | :---: |
   | <kbd><img src="media/timeline.jpg"/></kbd> | <kbd><img src="media/media_timeline.jpg"/></kbd> | <kbd><img src="media/theme_selection.jpg"/></kbd> |
@@ -59,9 +48,8 @@ harpy was available in the Play Store as a free and paid app and was used by ove
 
 ## About
 
-**harpy** is an alternative Twitter client that focuses on a nice user experience with unique features.
+**FocusTwitter X** is an alternative Twitter client that focuses on a nice user experience with unique features.
 
-This project has been in development since late 2018 and aims to be a good example for a medium-large sized Flutter app with a focus on code quality and maintainability.
 
 Some interesting features of the app include:
 
@@ -80,4 +68,4 @@ Some interesting features of the app include:
 
 ### Development / Setup
 
-Follow the [project setup for building harpy](https://github.com/robertodoering/harpy/wiki/Project-setup-for-building-harpy) instructions to get the project running.
+Follow the [project setup for building](https://github.com/robertodoering/harpy/wiki/Project-setup-for-building-harpy) instructions to get the project running.
