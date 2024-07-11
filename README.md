@@ -4,7 +4,16 @@ a feature rich Twitter experience built with <a href="https://flutter.dev/">Flut
 </p>
 
 <br>
+## Download
 
+### iOS
+
+- [Download from App Store](https://apps.apple.com/cn/app/focusx-for-twitter/id6450184089) 
+
+### Android
+
+- [Download from Google Play](https://play.google.com/store/apps/details?id=allen.town.focus.twitter.x) 
+- 
 <p align="center">
   <a href="https://github.com/robertodoering/harpy/stargazers"><img src="https://img.shields.io/github/stars/robertodoering/harpy?color=8B00FD&logo=github"/></a>
   <a href="https://github.com/robertodoering/harpy/releases"><img src="https://img.shields.io/github/v/release/robertodoering/harpy?color=BC0492"/></a>
